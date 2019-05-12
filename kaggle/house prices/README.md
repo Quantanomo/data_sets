@@ -1,4 +1,2 @@
-# DS
-Здесь выложены файлы с примерами применения алгоритмов машинного обучения
-
-<a href="https://github.com/Quantanomo/DS/blob/master/Decision_Tree.ipynb">Decision_Tree</a> -  Дерево решений на примере iris_dataset и библиотеки sklearn
+Ссылка на Kaggle:
+<a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview">House Prices: Advanced Regression Techniques</a>
